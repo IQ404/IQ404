@@ -1,6 +1,10 @@
-### Welcome to my Github!
+## Welcome to my Github!
 
+### I am
 
+- Xiaoyang Liu;
+- currently a postgraduate student studying Computer Game Engineering MSc at Newcastle University;
+- 
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
