@@ -11,7 +11,11 @@ Here are what you might find on my Github (not much right now!):
 
 - Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... ) on what I have been studying from various resources (there's even notes on tennis... ).
 
-- In my spare time, I studied an online course ([GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), Introduction to Computer Graphics) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). [Here](https://github.com/IQ404/GAMES101-works/blob/main/README.md) (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+- In my spare time, I studied an online course ([GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), Introduction to Computer Graphics) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/).
+  
+  [Here](https://github.com/IQ404/GAMES101-works/blob/main/README.md) (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
 - In my spare time, I studied an online course ([GAMES202](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html), Real-Time High Quality Rendering) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
