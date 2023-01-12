@@ -5,7 +5,9 @@
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - BSc Physics from UCL
 
+Here are what you might find on my Github:
 
+- Usually I keep a [list of my notes](README.md) (😟currently private) on what I have been studying from various resources.
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
