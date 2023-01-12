@@ -1,9 +1,9 @@
 ## Welcome to my Github!
 
-### I am
+Hi, I'm Xiaoyang Liu,
 
-- Xiaoyang Liu;
-- currently a postgraduate student studying Computer Game Engineering MSc at Newcastle University;
+- currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University;
+- BSc Physics from UCL;
 - 
 
 <!--
