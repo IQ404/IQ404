@@ -17,14 +17,30 @@ Here are what you might find on my Github (not much right now!):
   
   [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-- In my spare time, I studied an online course ([GAMES202](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html), Real-Time High Quality Rendering) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+- In my spare time, I studied an online course ([GAMES202](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html), Real-Time High Quality Rendering) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/).
+  
+  [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-- In my spare time, I studied [GAMES104](http://games-cn.org/games104/) (an online course on Modern Game Engine given by [BoomingTech](www.boomingtech.com), taught in Chinese). [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+- In my spare time, I studied [GAMES104](http://games-cn.org/games104/) (an online course on Modern Game Engine given by [BoomingTech](www.boomingtech.com), taught in Chinese).
+  
+  [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
 - In my spare time, I studied an online course ([GAMES201](http://games-cn.org/games201/), Advanced Physics Engines) taught in Chinese by Yuanming Hu (the creator of 
-the Taichi programming language). [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+the Taichi programming language).
 
-- In my spare time, I studied Tom Looman's [Unreal C++ Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15). [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+  [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+
+- In my spare time, I studied Tom Looman's [Unreal C++ Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15).
+  
+  [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
 - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
