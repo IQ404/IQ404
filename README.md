@@ -23,7 +23,7 @@ Here are what you might find on my Github (not much right now!):
   
   [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-- In my spare time, I studied [GAMES104](http://games-cn.org/games104/) (an online course on Modern Game Engine given by [BoomingTech](www.boomingtech.com), taught in Chinese).
+- In my spare time, I studied [GAMES104](http://games-cn.org/games104/) (an online course on Modern Game Engine given by [BoomingTech](http://www.boomingtech.com), taught in Chinese).
   
   [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
   
