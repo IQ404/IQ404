@@ -42,9 +42,13 @@ the Taichi programming language).
   
   [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-- I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+- I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-- I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc. [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+- I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
+  
+  [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
