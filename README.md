@@ -7,7 +7,7 @@
 
 Here are what you might find on my Github:
 
-- Usually I keep a [list of my notes](README.md) (😟currently private) on what I have been studying from various resources.
+- Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/e3169a6a42ec8b294e48980b283e4fb663921220/README.md) (😟currently private) on what I have been studying from various resources.
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
