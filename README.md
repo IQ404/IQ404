@@ -1,7 +1,7 @@
 # Welcome to my Github!
 
 <details>
-<summary> Who am I?</summary>
+<summary>**Who am I?**</summary>
 
 ### Hi, I'm Xiaoyang Liu
 
