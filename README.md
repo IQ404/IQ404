@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-- [Who am I?](intro)
+- [Who am I?](#intro)
 - [What's on this github?](#githubcontents)
 
 ### Hi, I'm Xiaoyang Liu<a name="intro"></a>
