@@ -15,7 +15,7 @@ There are far too many things in life I love: from mathematical logic to tennis,
 <details>
 <summary> What's in this Github?</summary>
 
-🔥 Here are what you might find on my Github: (not much right now!)
+### 🔥 Here are what you might find on my Github: (not much right now!)
 
 - Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... ) on what I have been studying from various resources (there's even notes on tennis... ).
 
