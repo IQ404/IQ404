@@ -50,6 +50,10 @@ the Taichi programming language).
   
   [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
+### You can find me on:
+
+- How about on [Steam](https://steamcommunity.com/profiles/76561199190031089/)?
+
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
