@@ -1,19 +1,11 @@
 # Welcome to my Github!
 
-<details>
-<summary>Who am I?</summary>
-
 ### Hi, I'm Xiaoyang Liu
 
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - BSc Physics from UCL
 
 There are far too many things in life I love: from mathematical logic to tennis, from philosophy to music... I love paintings but I don't know how to draw, so I'm trying to learn to let the computer draw for me; I love physics but NPR and techniques in non-physical rendering actually interest me most...
-
-</details>
-
-<details>
-<summary> What's in this Github?</summary>
 
 ### 🔥 Here are what you might find on my Github: (not much right now!)
 
@@ -57,8 +49,6 @@ the Taichi programming language).
 - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
   
   [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
-</details>
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
