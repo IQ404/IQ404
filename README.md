@@ -1,7 +1,7 @@
 # Welcome to my Github!
 
 - [Who am I?](https://github.com/IQ404/IQ404#intro)
-- [What's on this github?](#githubcontents)
+- [What's on this github?](https://github.com/IQ404/IQ404#githubcontents)
 
 ### Hi, I'm Xiaoyang Liu<a name="intro"></a>
 
