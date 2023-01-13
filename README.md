@@ -53,6 +53,7 @@ the Taichi programming language).
 ### You can find me on:
 
 - How about on [Steam](https://steamcommunity.com/id/iq404/)?
+- My [LinkedIn](linkedin.com/in/xiaoyang-liu-642b74aa)
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
