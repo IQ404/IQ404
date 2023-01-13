@@ -52,7 +52,7 @@ the Taichi programming language).
 
 ### You can find me on:
 
-- How about on [Steam](https://steamcommunity.com/profiles/76561199190031089/)?
+- How about on [Steam](https://steamcommunity.com/id/iq404/)?
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
