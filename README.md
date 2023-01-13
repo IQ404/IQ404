@@ -1,5 +1,22 @@
 # Welcome to my Github!
 
+<details>
+<summary> Who am I?</summary>
+
+### Heading
+1. Foo
+2. Bar
+* Baz
+* Qux
+
+### Some Code
+```js
+function logSomething(something) {
+console.log('Something', something);
+}
+```
+</details>
+
 ### Hi, I'm Xiaoyang Liu
 
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
