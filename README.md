@@ -66,7 +66,7 @@ the Taichi programming language).
     
     [Here]() is the code I wrote for the coursework.
     
-    During this course, I wrote a [binary search tree]() and some [sorting algorithms]().
+    During this course, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms]().
 
 ### You can find me on:
 
