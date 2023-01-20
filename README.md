@@ -52,7 +52,7 @@ the Taichi programming language).
     
     (my grade: 75 out 100)
   
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
 
   - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
     
