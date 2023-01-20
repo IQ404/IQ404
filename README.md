@@ -46,13 +46,19 @@ the Taichi programming language).
 
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
 
-  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
+  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc (My Grade: yet to release).
   
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-  - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
+  - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc (My Grade: 75 out 100).
   
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
+  
+  - I completed the course *CSC8501: Advanced Programming for Games* from the Newcastle Game Engineering MSc (My Grade: 100 out 100).
+    
+    [Here]() is the code I wrote for the coursework.
+    
+    During this course, I wrote a [binary search tree]() and some [sorting algorithms]().
 
 ### You can find me on:
 
