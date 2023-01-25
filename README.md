@@ -62,6 +62,8 @@ the Taichi programming language).
     
     During this course, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
 
+- [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
+
 ### You can find me on:
 
 - How about on [Steam](https://steamcommunity.com/id/iq404/)?
