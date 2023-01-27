@@ -5,8 +5,6 @@
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - BSc Physics from UCL
 
-There are far too many things in life I love: from mathematical logic to tennis (I play tennis at semi-pro level), from philosophy to music... I love paintings but I don't know how to draw, so I'm trying to learn to let the computer draw for me; I love physics but NPR and techniques in non-physical rendering actually interest me most...
-
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
 - Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... ) on what I have been studying from various resources (there's even notes on tennis... ).
