@@ -13,13 +13,13 @@
 
   - I am currently doing a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
 
-  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
-
   - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
   
     [Here](https://github.com/IQ404/FinalProject-CSC8503) is the final project I did for this course.
+  
+  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
+  
+    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
   
   - I completed the course *CSC8501: Advanced Programming for Games* from the Newcastle Game Engineering MSc.
     
