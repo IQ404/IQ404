@@ -9,6 +9,24 @@
 
 - Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... ) on what I have been studying from various resources (there's even notes on tennis... ).
 
+- *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
+
+  - I am currently doing a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
+
+  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
+  
+    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
+
+  - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
+  
+    [Here](https://github.com/IQ404/FinalProject-CSC8503) is the final project I did for this course.
+  
+  - I completed the course *CSC8501: Advanced Programming for Games* from the Newcastle Game Engineering MSc.
+    
+    [Here](https://github.com/IQ404/Coursework-CSC8501) is the code I wrote for the coursework.
+    
+    During this course, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
+
 - *In my spare time:*
 
   - I studied an online course ([GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), Introduction to Computer Graphics) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/).
@@ -43,24 +61,6 @@ the Taichi programming language).
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
   
   - I am PLANNING to work on the [Ray Tracing Series](https://raytracing.github.io/) developed by Peter Shirley.
-
-- *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
-
-  - I am currently doing a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
-
-  - I completed the course *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
-
-  - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8503) is the final project I did for this course.
-  
-  - I completed the course *CSC8501: Advanced Programming for Games* from the Newcastle Game Engineering MSc.
-    
-    [Here](https://github.com/IQ404/Coursework-CSC8501) is the code I wrote for the coursework.
-    
-    During this course, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
