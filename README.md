@@ -7,7 +7,10 @@
 
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
-- Usually I keep a [list of my notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... ) on what I have been studying from various resources (there's even notes on tennis... ).
+- I usually write notes on things I learned seriously. Those includes:
+
+  - [Programming Notes](https://github.com/IQ404/programming-notes)
+  - [A list of my old notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... )
 
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
 
