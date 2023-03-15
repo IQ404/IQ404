@@ -9,6 +9,7 @@
 
 - I usually write notes on things I learned seriously. Those includes:
 
+  - [Graphics Notes](https://github.com/IQ404/graphics-notes)
   - [Programming Notes](https://github.com/IQ404/programming-notes)
   - [A list of my old notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... )
 
