@@ -51,7 +51,7 @@
     
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
-  - I studied an online course ([GAMES201](http://games-cn.org/games201/), Advanced Physics Engines) taught in Chinese by Yuanming Hu (the creator of 
+  - I studied an online course ([GAMES201](http://games-cn.org/games201/), Advanced Physics Engines) taught in Chinese by [Yuanming Hu](https://yuanming.taichi.graphics/teaching/2020-games201/) (the creator of 
 the Taichi programming language).
 
     [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
