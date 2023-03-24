@@ -15,7 +15,7 @@
 
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
 
-  - I am currently doing a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
+  - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
 
   - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
   
