@@ -7,6 +7,8 @@
 
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
+- testing: [ray tracer for CSC8599](https://github.com/IQ404/8599-ray-tracer)
+
 - I usually write notes on things I learned seriously. Those includes:
 
   - [Graphics Notes](https://github.com/IQ404/graphics-notes)
