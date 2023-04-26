@@ -65,8 +65,6 @@ the Taichi programming language).
     [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
   
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-  
-  - I am PLANNING to work on the [Ray Tracing Series](https://raytracing.github.io/) developed by Peter Shirley.
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
