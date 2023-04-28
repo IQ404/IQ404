@@ -7,7 +7,7 @@
 
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
-- I am currently writing a [Ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
+- I am currently writing a [Ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599 (reallllly happy I finally got time to learn to write a ray tracer!).
 
 - I usually write notes on things I learned seriously. Those includes:
 
