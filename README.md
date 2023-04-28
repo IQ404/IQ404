@@ -7,7 +7,7 @@
 
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
-- [Ray tracer for CSC8599](https://github.com/IQ404/8599-ray-tracer)
+- I am currently writing a [Ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
 
 - I usually write notes on things I learned seriously. Those includes:
 
@@ -17,7 +17,7 @@
 
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
 
-  - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with some of my classmates.
+  - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates.
 
   - I completed the course *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
   
