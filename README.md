@@ -9,11 +9,7 @@
 
 - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
 
-- I usually write notes on things I learned seriously. Those includes:
-
-  - [Graphics Notes](https://github.com/IQ404/graphics-notes)
-  - [Programming Notes](https://github.com/IQ404/programming-notes)
-  - [A list of my old notes](https://github.com/IQ404/Notes/blob/main/README.md) (currently private 😟 will be made public soon... )
+- I usually write [notes](https://github.com/IQ404/Notes) on things I learned seriously.
 
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
 
