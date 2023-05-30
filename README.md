@@ -2,9 +2,13 @@
 
 ### Hi, I'm Xiaoyang Liu
 
+You can find me on:
+
 <p align="center">
   <a href="https://linkedin.com/in/xiaoyang-liu-642b74aa">
-  LinkedIn · 
+  LinkedIn
+  </a>
+      
   </a>
   <a href="https://steamcommunity.com/id/iq404/">
   Steam
@@ -13,6 +17,8 @@
 
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - BSc Physics from UCL
+
+
 
 🔥 **Here are what you might find on my Github:** (not much right now!)
 
