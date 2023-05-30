@@ -8,7 +8,7 @@ You can find me on:
   <a href="https://linkedin.com/in/xiaoyang-liu-642b74aa">
   LinkedIn
   </a>
-      
+   or 
   </a>
   <a href="https://steamcommunity.com/id/iq404/">
   Steam
