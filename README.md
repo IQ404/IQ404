@@ -2,6 +2,15 @@
 
 ### Hi, I'm Xiaoyang Liu
 
+<p align="center">
+  <a href="https://linkedin.com/in/xiaoyang-liu-642b74aa">
+  LinkedIn · 
+  </a>
+  <a href="https://steamcommunity.com/id/iq404/">
+  Steam
+  </a>
+</p>
+
 - currently a postgraduate student studying [Computer Game Engineering MSc](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - BSc Physics from UCL
 
@@ -63,11 +72,6 @@ the Taichi programming language).
     [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
-
-### You can find me on:
-
-- How about on [Steam](https://steamcommunity.com/id/iq404/)?
-- [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa).
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
