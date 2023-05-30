@@ -4,7 +4,6 @@
   <a href="https://linkedin.com/in/xiaoyang-liu-642b74aa">
     LinkedIn
   </a>
-  <a href="">
    · 
   </a>
   <a href="https://steamcommunity.com/id/iq404/">
