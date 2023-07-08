@@ -34,39 +34,6 @@
     
     During this course, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
 
-- *In my spare time:*
-
-  - I studied an online course ([GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), Introduction to Computer Graphics) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/).
-  
-    [Here](https://github.com/IQ404/GAMES101-works/blob/main/README.md) (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
-  
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
-  - I studied an online course ([GAMES202](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html), Real-Time High Quality Rendering) taught in Chinese by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/).
-  
-    [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
-  
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
-  - I studied [GAMES104](http://games-cn.org/games104/) (an online course on Modern Game Engine given by [BoomingTech](http://www.boomingtech.com), taught in Chinese).
-  
-    [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
-    
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
-  - I studied an online course ([GAMES201](http://games-cn.org/games201/), Advanced Physics Engines) taught in Chinese by [Yuanming Hu](https://yuanming.taichi.graphics/teaching/2020-games201/) (the creator of 
-the Taichi programming language).
-
-    [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
-  
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
-  - I studied Tom Looman's [Unreal C++ Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15).
-  
-    [Here]() (currently private 😟 will be made public soon... ) are the graphics I rendered from the homework I've done.
-  
-    [Here]() (currently private 😟 will be made public soon... ) is the final project I did for this course.
-
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
 <!--
