@@ -10,7 +10,7 @@
 - [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa)
 - [Steam](https://steamcommunity.com/id/iq404/)
 
-## 🔥 **Here are what you might find on my Github:** (not much right now!)
+## 🔥 Here are what you might find on my Github (not much right now!)
 
 - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
 
