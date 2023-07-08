@@ -12,11 +12,9 @@
 
 ## 🔥 Here are what you might find on my Github (not much right now!)
 
-- I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
-
-- I usually write [notes](https://github.com/IQ404/Notes) on things I learned seriously.
-
 - *Stuffs I did related to my Computer Game Engineering MSc at Newcastle University:*
+
+  - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
 
   - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates.
 
