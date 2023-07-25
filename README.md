@@ -51,7 +51,7 @@
 
 <br>
 
-- [Works by Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)
+- [Works by Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/#publications)
 
 <br>
 
