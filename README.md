@@ -34,6 +34,16 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
+## Here are what I find interest on the internet:
+
+- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
+- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/)
+- [Interactive Reconstruction of Monte Carlo Image Sequences using a Recurrent Denoising Autoencoder](https://research.nvidia.com/publication/2017-07_interactive-reconstruction-monte-carlo-image-sequences-using-recurrent)
+- [Real-time Neural Radiance Caching for Path Tracing](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing)
+- [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://iycho.notion.site/iycho/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
+<br>
+- [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
+
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
