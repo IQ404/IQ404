@@ -35,7 +35,7 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
-## Here are what I find interest on the internet:
+## Here are what I find interest on the internet
 
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
 
