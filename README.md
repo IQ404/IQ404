@@ -51,6 +51,10 @@
 - [Interactive Reconstruction of Monte Carlo Image Sequences using a Recurrent Denoising Autoencoder](https://research.nvidia.com/publication/2017-07_interactive-reconstruction-monte-carlo-image-sequences-using-recurrent)
 - [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://iycho.notion.site/iycho/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
 
+#### Animation and Simulation:
+
+- (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
+
 #### Specific authors:
 
 - [Some of (or all of) the works by Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/#publications)
