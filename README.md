@@ -63,11 +63,12 @@
 
 - [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/#publications)
 
-  PBR; neural-aided rendering.
+  - PBR
+  - Neural-aided rendering
 
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
-  NPR.
+  - NPR
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
