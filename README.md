@@ -61,7 +61,7 @@
 
   PBR; neural-aided rendering.
 
-- 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio), [bilibili](https://space.bilibili.com/8395085))
+- 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
   NPR.
 
