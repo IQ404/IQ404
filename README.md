@@ -55,6 +55,10 @@
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
 
+#### Digital arts:
+
+- [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
+
 #### Specific authors:
 
 - [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/#publications)
@@ -64,10 +68,6 @@
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
   NPR.
-
-#### Digital arts:
-
-- [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
