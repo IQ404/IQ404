@@ -37,6 +37,8 @@
 
 ## Here are what I find interesting on the internet
 
+- [Resource for Computer Graphics](https://kesen.realtimerendering.com/) collected by Ke-Sen Huang
+
 #### End-to-end neural rendering:
 
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
