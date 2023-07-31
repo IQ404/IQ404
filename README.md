@@ -40,6 +40,7 @@
 ## Here are what I find interesting on the internet
 
 - [Resource for Computer Graphics](https://kesen.realtimerendering.com/) collected by Ke-Sen Huang
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 #### End-to-end neural rendering:
 
