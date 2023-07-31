@@ -37,7 +37,7 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
-## Here are what I find interesting on the internet
+## Here are what I currently find interesting on the internet
 
 - [Resource for Computer Graphics](https://kesen.realtimerendering.com/) collected by Ke-Sen Huang
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
