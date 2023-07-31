@@ -41,6 +41,9 @@
 
 - [Resource for Computer Graphics](https://kesen.realtimerendering.com/) collected by Ke-Sen Huang
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning) (the [tutortials on RealityCapture](https://dev.epicgames.com/community/capturing-reality/learning) is also of interest)
+- [itch](https://itch.io/), a website about indie games
+- [GDC Vault](https://www.gdcvault.com/)
 
 #### End-to-end neural rendering:
 
