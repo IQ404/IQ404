@@ -63,6 +63,7 @@
 #### Animation & Simulation:
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
+- [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki/KABOOM!-in-180-lines-of-code)
 
 #### Digital arts:
 
