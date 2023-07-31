@@ -17,23 +17,23 @@
 
 - Stuffs related to my Computer Game Engineering MSc at Newcastle University:
 
-  - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for my MSc module CSC8599.
+  - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for the module CSC8599.
 
   - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates.
 
-  - I completed the module *CSC8503: Advanced Game Technologies* from the Newcastle Game Engineering MSc.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8503) is the final project I did for this course.
-  
-  - I completed the module *CSC8502: Advanced Graphics for Games* from the Newcastle Game Engineering MSc.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the final project I did for this course.
-  
-  - I completed the module *CSC8501: Advanced Programming for Games* from the Newcastle Game Engineering MSc.
+  - I completed the module *CSC8501: Advanced Programming for Games*.
     
-    [Here](https://github.com/IQ404/Coursework-CSC8501) is the code I wrote for the coursework.
+    [Here](https://github.com/IQ404/Coursework-CSC8501) is the code I wrote for the coursework of this module.
     
     During this module, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
+  
+  - I completed the module *CSC8502: Advanced Graphics for Games*.
+  
+    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the project I did for this module.
+  
+  - I completed the module *CSC8503: Advanced Game Technologies*.
+  
+    [Here](https://github.com/IQ404/FinalProject-CSC8503) is the project I did for this module.
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
