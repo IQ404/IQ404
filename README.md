@@ -69,7 +69,7 @@
 
 - [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
 
-#### Games
+#### Games:
 
 - [itch](https://itch.io/), a website about indie games
 
@@ -83,6 +83,13 @@
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
   - NPR
+
+## Miscellaneous
+
+#### Favorite keyboard
+
+- ZX75 Dark Side (RS Edition) by IQUNIX with TTC Speed Silver switch
+- HHKB
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
