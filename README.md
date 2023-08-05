@@ -64,6 +64,8 @@
 
 - [Run Taichi programs in C++ applications](https://docs.taichi-lang.org/docs/tutorial)
 
+  Read more about Taichi here: [Docs](https://docs.taichi-lang.org/), [repository](https://github.com/taichi-dev/taichi)
+
 #### Animation & Simulation:
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
