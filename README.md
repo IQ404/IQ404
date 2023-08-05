@@ -60,6 +60,10 @@
 - [RAE](https://research.nvidia.com/publication/2017-07_interactive-reconstruction-monte-carlo-image-sequences-using-recurrent)
 - [SVGF](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced)
 
+#### Parallel programming
+
+- [Run Taichi programs in C++ applications](https://docs.taichi-lang.org/docs/tutorial)
+
 #### Animation & Simulation:
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
