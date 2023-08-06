@@ -66,6 +66,8 @@
 
   Read more about Taichi here: [Docs](https://docs.taichi-lang.org/), [repository](https://github.com/taichi-dev/taichi)
 
+- [Mojo](https://www.modular.com/mojo)
+
 #### Animation & Simulation:
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
