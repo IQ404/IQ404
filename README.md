@@ -86,12 +86,6 @@
 
   - NPR
 
-## Miscellaneous
-
-#### Favorite keyboard
-
-- ZX75 Dark Side (RS Edition) by IQUNIX with TTC Speed Silver switch
-- HHKB
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
