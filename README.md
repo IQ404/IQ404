@@ -19,15 +19,15 @@
 
 - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates studying Computer Game Engineering MSc at Newcastle University.
     
-- An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) (incomplete because current it can only be used to solve for polynoimals with specific restrictions)
+- An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) (incomplete because currently it can only be used to solve for polynoimals with specific restrictions)
     
 - I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
 
 - Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by me.
   
-- An unfinished rasterized scene of [a sea on a rainy day with waves surging](https://github.com/IQ404/FinalProject-CSC8502).
+- An unfinished rasterized scene of [a sea on a rainy day with waves surging](https://github.com/IQ404/FinalProject-CSC8502) (this project is aimed to be seriously polished).
   
-- An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503).
+- An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503) (this project is aimed to be seriously polished).
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
