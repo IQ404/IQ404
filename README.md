@@ -15,25 +15,19 @@
 
 - // TODO: Study Notes!
 
-- Stuffs related to my Computer Game Engineering MSc at Newcastle University:
+- I worte a series of [CPU-based ray tracers](https://github.com/IQ404/cpu-based-ray-tracer).
 
-  - I am currently writing a [ray tracer](https://github.com/IQ404/8599-ray-tracer) for the module CSC8599.
-
-  - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates.
-
-  - I completed the module *CSC8501: Advanced Programming for Games*.
+- I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates studying Computer Game Engineering MSc at Newcastle University.
     
-    [Here](https://github.com/IQ404/Coursework-CSC8501) is the code I wrote for the coursework of this module.
+- An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) (incomplete because current it can only be used to solve for polynoimals with specific restrictions)
     
-    During this module, I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) and some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501).
+- I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
+
+- Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by me.
   
-  - I completed the module *CSC8502: Advanced Graphics for Games*.
+- An unfinished rasterized scene of [a sea on a rainy day with waves surging](https://github.com/IQ404/FinalProject-CSC8502).
   
-    [Here](https://github.com/IQ404/FinalProject-CSC8502) is the project I did for this module.
-  
-  - I completed the module *CSC8503: Advanced Game Technologies*.
-  
-    [Here](https://github.com/IQ404/FinalProject-CSC8503) is the project I did for this module.
+- An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503).
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
