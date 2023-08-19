@@ -70,6 +70,10 @@
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki/KABOOM!-in-180-lines-of-code)
 
+#### Generative AI
+
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+
 #### Digital arts:
 
 - [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
