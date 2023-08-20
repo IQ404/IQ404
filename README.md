@@ -17,7 +17,7 @@
 
 - I worte a series of [CPU-based ray tracers](https://github.com/IQ404/cpu-based-ray-tracer).
 
-- I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) with 7 other classmates studying Computer Game Engineering MSc at Newcastle University.
+- I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) (where my primary focus was on designing and implementing the AI for the boss behavior) with 7 other classmates during the Computer Game Engineering MSc at Newcastle University.
     
 - An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) (incomplete because currently it can only be used to solve for polynoimals with specific restrictions)
     
