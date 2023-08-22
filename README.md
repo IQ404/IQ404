@@ -39,12 +39,9 @@
 - [GDC Vault](https://www.gdcvault.com/)
 - [NerfStudio](https://docs.nerf.studio/en/latest/)
 
-#### End-to-end neural rendering:
+#### Neural rendering:
 
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
-
-#### Neural-aided rendering:
-
 - :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
 - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
