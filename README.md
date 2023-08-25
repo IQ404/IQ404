@@ -41,6 +41,7 @@
 
 #### Neural rendering:
 
+- [Neural Fields for Visual Computing](https://neuralfields.cs.brown.edu/siggraph23.html) (A Siggraph 2023 course)
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
 - :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
