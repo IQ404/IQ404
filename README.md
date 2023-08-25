@@ -46,7 +46,7 @@
 - :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 - :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
 - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
-- :star2: [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
+- [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/)
 - [Real-time Neural Radiance Caching for Path Tracing](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing)
 
