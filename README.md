@@ -71,7 +71,7 @@
 
 #### Denoising:
 
-- With Machine Learning
+- Machine Learning Based
 
   - [Neural Partitioning Pyramids for Denoising Monte Carlo Renderings](https://balint.io/nppd/)
   - [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://iycho.notion.site/iycho/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
