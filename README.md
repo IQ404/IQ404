@@ -88,7 +88,7 @@
 
   - [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
 
-#### Parallel programming
+#### Parallel programming:
 
 - [Run Taichi programs in C++ applications](https://docs.taichi-lang.org/docs/tutorial)
 
@@ -101,7 +101,7 @@
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki/KABOOM!-in-180-lines-of-code)
 
-#### Generative AI
+#### Generative AI:
 
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 
@@ -113,16 +113,10 @@
 
 - [itch](https://itch.io/), a website about indie games
 
-#### Specific authors:
-
-- [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/#publications)
-
-  - PBR
-  - Neural-aided rendering
+#### Non-photorealistic Rendering:
 
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
-  - NPR
 
 
 <!--
