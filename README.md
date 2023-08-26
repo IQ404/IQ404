@@ -48,6 +48,7 @@
 - Relighting
 
   - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
+  - [Relighting Neural Radiance Fields With Shadow and Highlight Hints](https://nrhints.github.io/)
 
 - Mesh Reconstruction
 
