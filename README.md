@@ -67,13 +67,13 @@ Dynamic Scene
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/)
 - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/)
 
-#### Other Neural Rendering:
+### Other Neural Rendering:
 
 - [Deep Real-time Volumetric Rendering Using Multi-feature Fusion](https://onethousandwu.com/publication/mrpnn)
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/)
 - [Real-time Neural Radiance Caching for Path Tracing](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing)
 
-#### Denoising:
+### Denoising:
 
 Machine Learning Based
 
@@ -91,7 +91,7 @@ Joint Works
 
 - [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
 
-#### Parallel programming:
+### Parallel programming:
 
 - [Run Taichi programs in C++ applications](https://docs.taichi-lang.org/docs/tutorial)
 
@@ -99,24 +99,24 @@ Joint Works
 
 - [Mojo](https://www.modular.com/mojo)
 
-#### Animation & Simulation:
+### Animation & Simulation:
 
 - (In Chinese) [真实感水体渲染技术总结](https://zhuanlan.zhihu.com/p/95917609)
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki/KABOOM!-in-180-lines-of-code)
 
-#### Generative AI:
+### Generative AI:
 
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 
-#### Digital arts:
+### Digital arts:
 
 - [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
 
-#### Games:
+### Games:
 
 - [itch](https://itch.io/), a website about indie games
 
-#### Non-photorealistic Rendering:
+### Non-photorealistic Rendering:
 
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
