@@ -50,6 +50,7 @@
   - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
   - [Relighting Neural Radiance Fields With Shadow and Highlight Hints](https://nrhints.github.io/)
   - [DE-NeRF: DEcoupled Neural Radiance Fields for View-consistent Appearance Editing and High-frequency Environmental Relighting](http://geometrylearning.com/DE-NeRF/)
+  - [Single Image Neural Material Relighting](https://www.cs.wm.edu/~ppeers/showPublication.php?id=Bieron:2023:SIN)
 
 - Mesh Reconstruction
 
