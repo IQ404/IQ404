@@ -41,31 +41,31 @@
 
 #### Neural Fields:
 
-- General
+General
 
-  - [Neural Fields for Visual Computing](https://neuralfields.cs.brown.edu/siggraph23.html) (A Siggraph 2023 course)
+- [Neural Fields for Visual Computing](https://neuralfields.cs.brown.edu/siggraph23.html) (A Siggraph 2023 course)
 
-- Relighting
+Relighting
 
-  - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
-  - [Relighting Neural Radiance Fields With Shadow and Highlight Hints](https://nrhints.github.io/)
-  - [DE-NeRF: DEcoupled Neural Radiance Fields for View-consistent Appearance Editing and High-frequency Environmental Relighting](http://geometrylearning.com/DE-NeRF/)
-  - [Single Image Neural Material Relighting](https://www.cs.wm.edu/~ppeers/showPublication.php?id=Bieron:2023:SIN)
+- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://pratulsrinivasan.github.io/nerv/)
+- [Relighting Neural Radiance Fields With Shadow and Highlight Hints](https://nrhints.github.io/)
+- [DE-NeRF: DEcoupled Neural Radiance Fields for View-consistent Appearance Editing and High-frequency Environmental Relighting](http://geometrylearning.com/DE-NeRF/)
+- [Single Image Neural Material Relighting](https://www.cs.wm.edu/~ppeers/showPublication.php?id=Bieron:2023:SIN)
 
-- Mesh Reconstruction
+Mesh Reconstruction
 
-  - :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
+- :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 
-- Acceleration
+Acceleration
 
 - [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://light.princeton.edu/publication/point-based-radiance-fields/)
-  - :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
-  - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
+- :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
-- Dynamic Scene
+Dynamic Scene
 
-  - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/)
-  - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/)
+- [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/)
+- [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/)
 
 #### Other Neural Rendering:
 
@@ -75,21 +75,21 @@
 
 #### Denoising:
 
-- Machine Learning Based
+Machine Learning Based
 
-  - [Neural Partitioning Pyramids for Denoising Monte Carlo Renderings](https://balint.io/nppd/)
-  - [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://iycho.notion.site/iycho/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
-  - [RAE](https://research.nvidia.com/publication/2017-07_interactive-reconstruction-monte-carlo-image-sequences-using-recurrent)
-  - [SVGF](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced)
+- [Neural Partitioning Pyramids for Denoising Monte Carlo Renderings](https://balint.io/nppd/)
+- [Weakly-Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction](https://iycho.notion.site/iycho/Weakly-Supervised-Contrastive-Learning-in-Path-Manifold-for-Monte-Carlo-Image-Reconstruction-d3f58f37e33b491d8fdaef43814c3a3c)
+- [RAE](https://research.nvidia.com/publication/2017-07_interactive-reconstruction-monte-carlo-image-sequences-using-recurrent)
+- [SVGF](https://research.nvidia.com/publication/2017-07_spatiotemporal-variance-guided-filtering-real-time-reconstruction-path-traced)
 
-- Without Machine Learning
+Without Machine Learning
 
-  - [Temporally Reliable Motion Vectors for Real-time Ray Tracing](https://sites.cs.ucsb.edu/~lingqi/publications/paper_trmv.pdf)
-  - [Weighted À-Trous Linear Regression (WALR) for Real-Time Diffuse Indirect Lighting Denoising](https://gpuopen.com/download/publications/GPUOpen2022_WALR.pdf)
+- [Temporally Reliable Motion Vectors for Real-time Ray Tracing](https://sites.cs.ucsb.edu/~lingqi/publications/paper_trmv.pdf)
+- [Weighted À-Trous Linear Regression (WALR) for Real-Time Diffuse Indirect Lighting Denoising](https://gpuopen.com/download/publications/GPUOpen2022_WALR.pdf)
 
-- Joint Works
+Joint Works
 
-  - [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
+- [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
 
 #### Parallel programming:
 
