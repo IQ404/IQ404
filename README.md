@@ -58,6 +58,7 @@
 
 - Acceleration
 
+- [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://light.princeton.edu/publication/point-based-radiance-fields/)
   - :star2: [MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://creiser.github.io/merf/)
   - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
