@@ -39,7 +39,7 @@
 - [GDC Vault](https://www.gdcvault.com/)
 - [NerfStudio](https://docs.nerf.studio/en/latest/)
 
-#### Neural Fields:
+### Neural Fields:
 
 General
 
