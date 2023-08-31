@@ -54,7 +54,7 @@ Relighting
 
 Mesh Reconstruction
 
-- :star2: [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
+- [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/)
 
 Acceleration
 
