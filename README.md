@@ -11,6 +11,11 @@
 - [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa)
 - [Steam](https://steamcommunity.com/id/iq404/)
 
+## PLANs!
+
+- Write a particle system!
+- Write a volumetric renderer!
+
 ## 🔥 Here are what you might find on my Github (not much right now!)
 
 - // TODO: Study Notes!
