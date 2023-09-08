@@ -43,6 +43,7 @@
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning) (the [tutortials on RealityCapture](https://dev.epicgames.com/community/capturing-reality/learning) is also of interest)
 - [GDC Vault](https://www.gdcvault.com/)
 - [NerfStudio](https://docs.nerf.studio/en/latest/)
+- [Shadertoy](https://www.shadertoy.com/)
 
 ### (Neural) Radiance Fields:
 
