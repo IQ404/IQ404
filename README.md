@@ -121,6 +121,7 @@ Joint Works
 
 ### Games:
 
+- [Nubis3: Methods (and madness) to model and render immersive real-time voxel-based clouds](https://advances.realtimerendering.com/s2023/index.html#Nubis3)
 - [itch](https://itch.io/), a website about indie games
 
 ### Non-photorealistic Rendering:
