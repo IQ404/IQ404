@@ -118,6 +118,7 @@ Joint Works
 ### Digital arts:
 
 - [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
+- [Capturing the World’s OLDEST Stave Church in Unreal Engine 5](https://www.youtube.com/watch?v=B5hBBFM2I_w)
 
 ### Games:
 
