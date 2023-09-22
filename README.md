@@ -24,7 +24,7 @@
 
 - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) (where my primary focus was on designing and implementing the AI for the boss behavior) with 7 other classmates during the Computer Game Engineering MSc at Newcastle University.
     
-- An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) (incomplete because currently it can only be used to solve for polynoimals with specific restrictions)
+- An incomplete [polynomial solver](https://github.com/IQ404/Coursework-CSC8501)
     
 - I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
 
