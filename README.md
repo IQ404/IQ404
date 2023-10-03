@@ -1,6 +1,8 @@
 Welcome to my GitHub!
 
-[click here](https://github.com/IQ404/welcome/wiki/Who-Am-I) to see more.
+- [Who I Am](https://github.com/IQ404/welcome/wiki/Who-I-Am)
+- [What you might find on my GitHub](https://github.com/IQ404/welcome/wiki/What-you-might-find-on-my-GitHub)
+- and [more...](https://github.com/IQ404/welcome/wiki)
 
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
