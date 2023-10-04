@@ -2,6 +2,7 @@ Welcome to my GitHub!
 
 - [Who I Am](https://github.com/IQ404/welcome/wiki/Who-I-Am)
 - [What you might find on my GitHub](https://github.com/IQ404/welcome/wiki/What-you-might-find-on-my-GitHub)
+- [Contact](https://github.com/IQ404/welcome/wiki/Contact)
 - and [more...](https://github.com/IQ404/welcome/wiki)
 
 <!--
