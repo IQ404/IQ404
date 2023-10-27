@@ -3,7 +3,7 @@ Welcome to my GitHub!
 - [Who I Am](https://github.com/IQ404/welcome/wiki/Who-I-Am)
 - [What you might find on my GitHub](https://github.com/IQ404/welcome/wiki/What-you-might-find-on-my-GitHub)
 - [What I find interesting](https://github.com/IQ404/welcome/wiki/What-I-currently-find-interesting)
-- [Contact](https://github.com/IQ404/welcome/wiki/Contact)
+- [Contact](https://github.com/IQ404/welcome/blob/main/contact.md)
 - and [more...](https://github.com/IQ404/welcome/blob/main/README.md)
 
 <!--
