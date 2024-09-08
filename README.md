@@ -12,7 +12,7 @@
 - [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa)
 - [Steam](https://steamcommunity.com/id/iq404/)
 
-### What you might find on my GitHub:
+## What you might find on my GitHub:
 
 - My [study notes](https://github.com/IQ404/study-notes/blob/main/README.md).
 - My [PhD stuffs](https://github.com/IQ404/phd-base) (currently private).
