@@ -7,7 +7,7 @@
 - ~~Bachelor of Science and Bachelor of Advanced Studies (Advanced) in Mathematics and Statistics from University of Sydney~~
 - BSc Physics from UCL
 
-### Contact
+## Contact
 
 - [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa)
 - [Steam](https://steamcommunity.com/id/iq404/)
