@@ -14,6 +14,8 @@
 
 ## What you might find on my GitHub:
 
+- [My PhD stuffs](https://github.com/IQ404/phd-base) (current private)
+
 #### My study notes:
 
 - Mathematics
