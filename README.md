@@ -14,8 +14,13 @@
 
 ## What you might find on my GitHub:
 
-- My [study notes](https://github.com/IQ404/study-notes/blob/main/README.md).
-- My [PhD stuffs](https://github.com/IQ404/phd-base) (currently private).
+#### My study notes:
+
+- Mathematics
+  - [Linear Algebra for Machine Learning]()  // currently handwritten, to be uploaded...
+  - [Calculus for Machine Learning](https://www.overleaf.com/read/dgkkwntmhgjc#8663d5)
+  - [Probability and Statistics for Machine Learning](https://www.overleaf.com/read/fprgmmgvvhbb#0751f8)
+  - [Mathematics for Graphics](https://github.com/IQ404/study-notes/blob/math-for-graphics/README.md)
 
 #### Ray Tracing
 
