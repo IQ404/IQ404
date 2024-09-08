@@ -30,6 +30,8 @@
   - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
   - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
   - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
+ 
+- Machine Learning and LLMs
   - [Machine Learning](https://github.com/IQ404/study-notes/blob/machine-learning/README.md) // TODO
 
 #### Ray Tracing
