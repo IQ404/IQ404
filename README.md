@@ -1,4 +1,6 @@
-Welcome to my GitHub!
+# Welcome to my GitHub!
+
+### Hi, I'm Xiaoyang Liu
 
 - [Who I Am](https://github.com/IQ404/welcome/blob/main/about-me.md)
 - [What you might find on my GitHub](https://github.com/IQ404/welcome/blob/main/my-projects.md)
