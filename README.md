@@ -20,7 +20,7 @@
   - [Linear Algebra for Machine Learning]()  // currently handwritten, to be uploaded...
   - [Calculus for Machine Learning](https://www.overleaf.com/read/dgkkwntmhgjc#8663d5)
   - [Probability and Statistics for Machine Learning](https://www.overleaf.com/read/fprgmmgvvhbb#0751f8)
-  - [Mathematics for Graphics](https://github.com/IQ404/study-notes/blob/math-for-graphics/README.md)
+  - [Mathematics for Graphics](https://github.com/IQ404/study-notes/blob/math-for-graphics/README.md)  // to be completed...
 
 #### Ray Tracing
 
