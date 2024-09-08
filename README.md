@@ -62,6 +62,22 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
+## What I find interesting:
+
+#### LLM-based agentic designs
+
+- [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+
+#### Others
+
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning)
+- [GDC Vault](https://www.gdcvault.com/)
+- [Resource for Computer Graphics](https://kesen.realtimerendering.com/) collected by Ke-Sen Huang
+- [GAMES Webinar](https://games-cn.org/previouswebinar-ppt/)
+- [itch](https://itch.io/), a website about indie games
+
 <!--
 **IQ404/IQ404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
