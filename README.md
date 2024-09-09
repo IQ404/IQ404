@@ -26,7 +26,7 @@
  
 - Programming
   - [C++](https://github.com/IQ404/study-notes/blob/cpp/README.md)  // to be completed...
-  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)
+  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)  // to be merged...
   - [Taichi Lang](https://github.com/IQ404/study-notes/blob/taichi-lang/README.md)
   - [LaTex](https://github.com/IQ404/study-notes/blob/latex/README.md)
   - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
