@@ -16,26 +16,6 @@
 
 - [My PhD stuffs](https://github.com/IQ404/phd-base) (current private)
 
-#### My study notes:
-
-- Mathematics
-  - [Linear Algebra for Machine Learning]()  // currently handwritten, to be uploaded...
-  - [Calculus for Machine Learning](https://www.overleaf.com/read/dgkkwntmhgjc#8663d5)
-  - [Probability and Statistics for Machine Learning](https://www.overleaf.com/read/fprgmmgvvhbb#0751f8)
-  - [Mathematics for Graphics](https://github.com/IQ404/study-notes/blob/math-for-graphics/README.md)  // to be completed...
- 
-- Programming
-  - [C++](https://github.com/IQ404/study-notes/blob/cpp/README.md)  // to be merged...
-  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)  // to be merged...
-  - [Taichi Lang](https://github.com/IQ404/study-notes/blob/taichi-lang/README.md)
-  - [LaTex](https://github.com/IQ404/study-notes/blob/latex/README.md)
-  - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
-  - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
-  - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
- 
-- Machine Learning and LLMs
-  - [Machine Learning](https://github.com/IQ404/study-notes/blob/machine-learning/README.md) // TODO
-
 #### Ray Tracing
 
 - I wrote a series of [CPU-based ray tracers with a denoiser](https://github.com/IQ404/cpu-based-ray-tracer).
@@ -63,6 +43,26 @@
 #### Games
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
+
+#### My study notes:
+
+- Mathematics
+  - [Linear Algebra for Machine Learning]()  // currently handwritten, to be uploaded...
+  - [Calculus for Machine Learning](https://www.overleaf.com/read/dgkkwntmhgjc#8663d5)
+  - [Probability and Statistics for Machine Learning](https://www.overleaf.com/read/fprgmmgvvhbb#0751f8)
+  - [Mathematics for Graphics](https://github.com/IQ404/study-notes/blob/math-for-graphics/README.md)  // to be completed...
+ 
+- Programming
+  - [C++](https://github.com/IQ404/study-notes/blob/cpp/README.md)  // to be merged...
+  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)  // to be merged...
+  - [Taichi Lang](https://github.com/IQ404/study-notes/blob/taichi-lang/README.md)
+  - [LaTex](https://github.com/IQ404/study-notes/blob/latex/README.md)
+  - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
+  - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
+  - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
+ 
+- Machine Learning and LLMs
+  - [Machine Learning](https://github.com/IQ404/study-notes/blob/machine-learning/README.md) // TODO
 
 ## What I find interesting:
 
