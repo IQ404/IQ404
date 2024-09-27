@@ -63,6 +63,7 @@
  
 - Machine Learning and LLMs
   - [Machine Learning](https://github.com/IQ404/study-notes/blob/machine-learning/README.md) // TODO
+  - [Large Language Models](https://www.overleaf.com/read/pmzrgwmnjvyk#8ed277)
 
 ## What I find interesting:
 
