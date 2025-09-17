@@ -2,7 +2,7 @@
 
 ### Hi, I'm Xiaoyang Liu
 
-- PhD student in Computer Science, currently interested in designing LLM-based agents and their applications in video games.
+- PhD student in Computer Science.
 - MSc [Computer Game Engineering](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
 - ~~Bachelor of Science and Bachelor of Advanced Studies (Advanced) in Mathematics and Statistics from University of Sydney~~
 - BSc Physics from UCL
