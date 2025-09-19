@@ -72,6 +72,8 @@
 - [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 
+* * * * *
+
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning)
 - [GDC Vault](https://www.gdcvault.com/)
