@@ -34,7 +34,7 @@
 - A [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501) I wrote.
 - Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) I wrote.
 
-#### Game AI
+#### Game AI (the Classical Ones)
 
 - I have done a [team project](https://github.com/blacktack2/MastersGroupProject2023) (where my primary focus was on designing and implementing the AI for the boss behavior) with 7 other classmates during the Computer Game Engineering MSc at Newcastle University.
 - An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503) //TODO: this project is aimed to be seriously polished.
@@ -53,28 +53,24 @@
  
 - Programming
   - [Linux](https://github.com/IQ404/study-notes/blob/linux/README.md)
-  - [C++](https://github.com/IQ404/study-notes/blob/cpp/README.md)  // to be merged...
-  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)  // to be merged...
+  - [C++](https://github.com/IQ404/study-notes/blob/cpp/README.md)  // to be merged with my other C++ notes elsewhere...
+  - [Python](https://www.overleaf.com/read/wzrwprxvmmjx#352fff)  // to be merged with my other Python notes elsewhere...
   - [Taichi Lang](https://github.com/IQ404/study-notes/blob/taichi-lang/README.md)
   - [LaTex](https://github.com/IQ404/study-notes/blob/latex/README.md)
   - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
   - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
   - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
  
-- Machine Learning and LLMs
+- AI (the perhaps Non-Classical Ones)
   - [Machine Learning](https://www.overleaf.com/read/pwfgyjsbbkym#a8f597)
+  - [Neural Networks]()  // TODO
   - [Large Language Models](https://www.overleaf.com/read/pmzrgwmnjvyk#8ed277)
- 
-- I'm currently learning the materials in [CS222](https://joonspk-research.github.io/cs222-fall24/index.html), and here is my study [notes](https://www.overleaf.com/read/gdbkvnwcgtsc#e6b419).
+  - I'm currently learning the materials in [CS222](https://joonspk-research.github.io/cs222-fall24/index.html), and here is my study [notes](https://www.overleaf.com/read/gdbkvnwcgtsc#e6b419).
 
-## What I find interesting:
-
-#### LLM-based agentic designs
+## Random stuff (from others):
 
 - [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
-
-#### Others
 
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning)
