@@ -15,8 +15,6 @@
 
 ## What you might find on my GitHub:
 
-- [My PhD stuffs](https://github.com/IQ404/phd-base) (current private)
-
 #### Ray Tracing
 
 - I wrote a series of [CPU-based ray tracers with a denoiser](https://github.com/IQ404/cpu-based-ray-tracer).
