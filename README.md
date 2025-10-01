@@ -60,6 +60,7 @@
   - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
   - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
   - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
+  - [Claude](https://github.com/IQ404/study-notes/blob/claude/README.md)
  
 - AI (the perhaps Non-Classical Ones)
   - [Machine Learning](https://www.overleaf.com/read/pwfgyjsbbkym#a8f597)
