@@ -43,7 +43,7 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
-#### My study notes:
+### My study notes:
 
 - Mathematics
   - Linear Algebra for Machine Learning  // currently handwritten, to be uploaded...
