@@ -1,17 +1,6 @@
 # Welcome to my GitHub!
 
-### Hi, I'm Xiaoyang Liu
-
-- PhD student in Computer Science.
-- MSc [Computer Game Engineering](https://www.ncl.ac.uk/postgraduate/degrees/5152f/) from Newcastle University
-- ~~Bachelor of Science and Bachelor of Advanced Studies (Advanced) in Mathematics and Statistics from University of Sydney~~
-- BSc Physics from UCL
-
-## Contact
-
-- [OpenReview](https://openreview.net/profile?id=~Xiaoyang_Liu9)
-- [LinkedIn](https://linkedin.com/in/xiaoyang-liu-642b74aa)
-- [Steam](https://steamcommunity.com/id/iq404/)
+### Hi, I'm Xiaoyang Liu, please see my [personal web](https://iq404.github.io/) for more.
 
 ## What you might find on my GitHub:
 
@@ -69,13 +58,6 @@
   - I'm currently learning the materials in [CS222](https://joonspk-research.github.io/cs222-fall24/index.html), and here is my study [notes](https://www.overleaf.com/read/gdbkvnwcgtsc#e6b419).
 
 ## Random stuff (from others):
-
-\* * * * *
-
-- [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
-- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
-
-\* * * * *
 
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning)
