@@ -42,7 +42,6 @@
   - [Taichi Lang](https://github.com/IQ404/study-notes/blob/taichi-lang/README.md)
   - [LaTex](https://github.com/IQ404/study-notes/blob/latex/README.md)
   - [Game Programming Pattern](https://github.com/IQ404/study-notes/tree/game-programming-pattern) // TODO
-  - [OpenGL](https://github.com/IQ404/study-notes/blob/opengl/README.md)
   - [CUDA](https://github.com/IQ404/study-notes/blob/cuda/README.md)
   - [Claude](https://www.overleaf.com/read/gxfsxtczsfbr#9b071d)
  
