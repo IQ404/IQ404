@@ -4,10 +4,6 @@
 
 ## What you might find on my GitHub:
 
-#### Ray Tracing
-
-- I wrote a series of [CPU-based ray tracers with a denoiser](https://github.com/IQ404/cpu-based-ray-tracer).
-
 #### Rasterization
 
 - A bunch of [shaders](https://github.com/IQ404/learning-opengl) together with an OpenGL application I wrote.
