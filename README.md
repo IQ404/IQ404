@@ -48,7 +48,6 @@
 - AI (the perhaps Non-Classical Ones)
   - [Neural Networks]()  // TODO, this will be hand-written
   - [Large Language Models](https://www.overleaf.com/read/pmzrgwmnjvyk#8ed277)
-  - I'm currently learning the materials in [CS222](https://joonspk-research.github.io/cs222-fall24/index.html), and here is my study [notes](https://www.overleaf.com/read/gdbkvnwcgtsc#e6b419).
 
 ## Random stuff (from others):
 
