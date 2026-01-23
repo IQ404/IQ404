@@ -44,7 +44,6 @@
   - [Claude](https://www.overleaf.com/read/gxfsxtczsfbr#9b071d)
  
 - AI (the perhaps Non-Classical Ones)
-  - [Neural Networks]()  // TODO, this will be hand-written
   - [Large Language Models](https://www.overleaf.com/read/pmzrgwmnjvyk#8ed277)
 
 ## Random stuff (from others):
